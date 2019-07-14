@@ -1,4 +1,4 @@
-# Homebrew-discoteq
+# homebrew-datamade
 
 These formulae provide software created by DataMade, including:
 
